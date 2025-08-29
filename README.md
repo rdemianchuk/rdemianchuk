@@ -2,14 +2,10 @@
 <h3 align="center">A passionate Full Stack AI Engineer</h3>
 
 - 🔭 I’m currently working on **GlobalLogic**
-
 - 🌱 I’m currently learning **LangChain/LangGraph, LLM's, AI**
-
 - 💬 Ask me about **GenAI, AWS, Terraform, Python, TypeScript**
-
 - 📫 How to reach me **romans.demyanchuk@gmail.com**
 
-- 📄 Know about my experiences [v](v)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
