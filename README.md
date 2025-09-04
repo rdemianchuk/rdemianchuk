@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GlobalLogic**
 - 🌱 I’m currently learning **LangChain/LangGraph, LLM's, AI**
-- 💬 Ask me about **GenAI, AWS, Terraform, Python, TypeScript**
+- 💬 Ask me about **GenAI, AWS, Terraform, BE, FE**
 - 📫 How to reach me **romans.demyanchuk@gmail.com**
 
 
