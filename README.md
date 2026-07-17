@@ -1,17 +1,16 @@
 Roman Demianchuk here.
+It took me around 4 years to understand that, at my core, I am not simply a programmer, and 8 eight to see the direction I want to pursue.
 
-It took me around four years to understand that, at my core, I am not simply a programmer, and almost eight to see the direction I want to pursue.
-
-I am an engineer who is not satisfied with surface-level solutions. I enjoy going deeper into a problem, changing the angle of view, and finding solutions that consider not only the implementation, but the product as a whole.
-
-I think across technical, product, and user perspectives at the same time. Together, they shape the design of a system: how it works, what decisions it makes, where its boundaries are, and whether it can be trusted.
+I'm an engineer who is not satisfied with surface-level solutions. I enjoy going deeper into a problem, changing the angle of view, and finding solutions that consider not only the implementation, but the product as a whole.
+I think across technical, product, and user perspectives at the same time. 
+Together, they shape the design of a system: how it works, what decisions it makes, where its boundaries are, and whether it can be trusted.
 
 I currently work as a Cloud/DevOps Engineer. Some parts of the role are routine, but the problems often require unconventional solutions and a deeper understanding of the system.
 In parallel, I am building Winston — a personal finance product where I explore how AI can help people make decisions without relying on the illusion of magic or full autonomy.
 
 I design AI products so that an agent strengthens human judgment rather than replacing it where the cost of a mistake matters. Decisions should be understandable, verifiable, and keep a human in the loop.
 
-I am now looking for an environment where I can apply my experience to more complex product challenges, work alongside strong engineers, and gradually take on greater technical and product responsibility.
+I'm now looking for an environment where I can apply my experience to more complex product challenges, work alongside strong engineers, and gradually take on greater technical and product responsibility.
 
 I am interested in teams where engineers do more than implement requirements — they help shape the product and take responsibility for the outcome.
 
