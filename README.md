@@ -5,14 +5,15 @@ I'm an engineer who is not satisfied with surface-level solutions. I enjoy going
 I think across technical, product, and user perspectives at the same time. 
 Together, they shape the design of a system: how it works, what decisions it makes, where its boundaries are, and whether it can be trusted.
 
-I currently work as a Cloud/DevOps Engineer. Some parts of the role are routine, but the problems often require unconventional solutions and a deeper understanding of the system.
-In parallel, I am building Winston — a personal finance product where I explore how AI can help people make decisions without relying on the illusion of magic or full autonomy.
+My current role is in Cloud and DevOps engineering. Some parts of the work are routine, but the problems often call for unconventional solutions and a deeper understanding of the systems behind them.
 
-I design AI products so that an agent strengthens human judgment rather than replacing it where the cost of a mistake matters. Decisions should be understandable, verifiable, and keep a human in the loop.
+In parallel, I am building Winston — a personal finance product exploring how AI can support human decision-making without relying on the illusion of magic or full autonomy.
 
-I'm now looking for an environment where I can apply my experience to more complex product challenges, work alongside strong engineers, and gradually take on greater technical and product responsibility.
+The AI systems I want to build should strengthen human judgment rather than replace it where the cost of a mistake matters. Their decisions should be understandable and verifiable, with a human remaining in the loop.
 
-I am interested in teams where engineers do more than implement requirements — they help shape the product and take responsibility for the outcome.
+The next step for me is an environment where I can apply my experience to more complex product challenges, work alongside strong engineers, and take on greater technical and product responsibility.
+
+The teams that interest me are those where engineers do more than implement requirements — they help shape the product and take responsibility for the outcome.
 
 
 <!-- Рома Дем'янчук на зв'язку. Мені знадобилось близько 4 років щоб зрозуміти що я не є програмістом по своїй суті, і 8 щоб побачити який напрям я хочу обрати.
