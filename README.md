@@ -1,5 +1,5 @@
 Roman Demianchuk here.
-It took me around 4 years to understand that, at my core, I am not a programmer, and 8 eight to see the direction I want to pursue.
+It took me around 4 years to understand that, at my core, I am not a programmer, and 8 to see the direction I want to pursue.
 
 I'm an engineer who is not satisfied with surface-level solutions. I enjoy going deeper into a problem, changing the angle of view, and finding solutions that consider not only the implementation, but the product as a whole.
 I think across technical, product, and user perspectives at the same time. 
